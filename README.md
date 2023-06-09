@@ -1,5 +1,6 @@
-### Hi there 👋
+Nicolas Vega Cardozo, FrontEnd Web Developer. 👋
 
+I am a web developer, passionate about programming and new technologies. I am from Argentina, living in the city of Buenos Aires. I have knowledge in HTML, CSS, SCSS, GIT, and Javascript. Currently, I am studying React at Coderhouse, and soon I will start studying Backend programming
 <!--
 
 <div id="header" align="center">
